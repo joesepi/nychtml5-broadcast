@@ -12,5 +12,5 @@
 
 ## Special tips
 
-* `Cmd+d` will mute/unmute your mic in Hangouts on Mac More shortcuts  
-This is actually really useful. participants should be muted unless they are going to talk because if your chair squeeks or something, the camera shifts to you when your mic is on. It works best if everyone has the CMD+d shortcut at the ready and can chime in like that. Like on a CB radio or a walkee talkee. ;)
+* `CMD+d` will mute/unmute your mic in Hangouts on Mac More shortcuts  
+This is actually really useful. Participants should be muted unless they are going to talk because if your chair squeeks or something little noise is made, the camera shifts to you when your mic is on. It works best if everyone has the `CMD+d` shortcut at the ready and can chime in like that. Like on a CB radio or a walkee talkee. ;)
